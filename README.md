@@ -1,3 +1,3 @@
 # ZigZag
 <br>
-Unity Game - Udemy Course Training
+Unity Game - ZigZag Game Clone on Unity
